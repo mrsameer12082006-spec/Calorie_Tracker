@@ -1,5 +1,5 @@
 #------------------------------Self introduction----------------------------------------------------------------------------------------------------------------------------
-"""Name=Sameer Mishra
+"""Name=Sameer Mishra is god isnot it 
    Date=5 october 2025
    project= A Calorie Tracking Console App"""
 
