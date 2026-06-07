@@ -68,3 +68,6 @@ Help has been taken from
 *Youtube
 
 # All the meal record will be saved in Meal_record.txt file to store the data
+
+# Author 
+Sameer Mishra
