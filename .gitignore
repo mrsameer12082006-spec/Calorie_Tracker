@@ -1,0 +1,14 @@
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+vendor/
+node_modules/
+.env
+.DS_Store
+dist/
+build/
